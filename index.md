@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Chanakya Vishal
 
-You can use the [editor on GitHub](https://github.com/ChanakyaVishal/ChanakyaVishal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi Everyone!!
+Welcome to my GitHub.io
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Computer Science Undergraduate.
 
-### Markdown
+### What do I do 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have experience working with Android development and am currently learning Machine Learning through various online resources.
+I also have done various other projects which are all present on my github repo, please check them out and give suggestions.
 
-```markdown
-Syntax highlighted code block
+### Why the Blog
 
-# Header 1
-## Header 2
-### Header 3
+I will use this blog to post my day to day coding activities.
+It would also contain some non-coding articles too.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChanakyaVishal/ChanakyaVishal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me on my email address : chanakyavishalvv@gmail.com
